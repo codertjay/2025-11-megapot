@@ -1,15 +1,5 @@
 //SPDX-License-Identifier: UNLICENSED
 
-/*
-Copyright (C) 2025 Coordination Inc.
-All rights reserved.
-
-This software is proprietary and confidential. Unauthorized copying,
-distribution, or use is strictly prohibited and may result in legal action.
-
-For licensing inquiries: legal@coordinationlabs.com
-*/
-
 pragma solidity ^0.8.28;
 
 import { ERC721 } from "solady/src/tokens/ERC721.sol";
